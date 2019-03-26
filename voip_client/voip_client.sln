@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "voip_client", "voip_client\voip_client.vcxproj", "{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Debug|x64.ActiveCfg = Debug|x64
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Debug|x64.Build.0 = Debug|x64
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Debug|x86.ActiveCfg = Debug|Win32
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Debug|x86.Build.0 = Debug|Win32
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Release|x64.ActiveCfg = Release|x64
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Release|x64.Build.0 = Release|x64
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Release|x86.ActiveCfg = Release|Win32
+		{B41EF33B-7FDC-459C-80C3-20DBE5DD8870}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB34B1B0-EA49-46EA-BEC1-01BAD90DDBC2}
+	EndGlobalSection
+EndGlobal
